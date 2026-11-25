@@ -17,6 +17,7 @@ I find the bugs before your users do. For the past 4+ years I've tested large-sc
 |---|---|
 | [**playwright-ui-api-tests**](https://github.com/Mofrh-hue/playwright-ui-api-tests) | 21 automated UI + API tests in Playwright/TypeScript with Page Objects, CI on GitHub Actions, and regression checks for known defects |
 | [**postman-api-tests**](https://github.com/Mofrh-hue/postman-api-tests) | Postman collections run with Newman in CI: 19 chained API requests, JSON-schema checks, data-driven search tests, and an offline mock that proves the tests catch real bugs |
+| [**sql-data-quality-tests**](https://github.com/Mofrh-hue/sql-data-quality-tests) | 12 SQL data-quality checks and 6 report queries (joins, CTEs, window functions) for a shop database, tested with pytest against clean and deliberately broken data |
 | [**qa-manual-testing-portfolio**](https://github.com/Mofrh-hue/qa-manual-testing-portfolio) | A full manual QA package for a web shop: test plan, 20 executed test cases, and a bug report with 8 issues |
 | [**it-support-toolkit**](https://github.com/Mofrh-hue/it-support-toolkit) | PowerShell and Bash scripts for first-line support tickets (health, network, event-log and service checks), a troubleshooting runbook, and 62 tests on Windows and Linux |
 
